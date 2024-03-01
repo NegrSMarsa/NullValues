@@ -10,7 +10,7 @@ class Wolf{
 class MyWolf {
     var Wolf: Wolf? = Wolf()
 
-    fun MyFun() {
+    fun myFun() {
         Wolf?.eat()
     }
 }
